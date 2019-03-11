@@ -1,0 +1,6 @@
+node_modules
+.prettier
+.gitignore
+.vscode
+.commitlintrc.json
+husky.config.js
